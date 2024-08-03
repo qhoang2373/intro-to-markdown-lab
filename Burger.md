@@ -18,3 +18,12 @@
 9. *Thousand-Island Sauce* (to create your own Thousand-Island sauce, mix Mayonaise with Ketchup)
 
 ![Burger Picture](https://images.unsplash.com/photo-1530554764233-e79e16c91d08?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
+
+### __Directions__
+ 1. *Divide the ground beef into four equal piles and shape each into an 8-ounce patty using two deli container lids to press down evenly; create a thumb indentation in the center of each patty to prevent shrinking during cooking.*
+
+ 2. *Season patties with salt and pepper, then grill the indentation-side down until marked before flipping and cooking through; add cheese during the last minute and let rest before serving.*
+
+ 3. *Grill onion slices until golden, then flip, salt, and cook until caramelized; transfer to a plate.*
+
+ 4. *Toast buns cut-side down, then layer the bottom bun with burger, onion, lettuce, and tomato; spread condiments on the top bun, add pickles, and place on top of the burger, securing with a toothpick if desired.*
