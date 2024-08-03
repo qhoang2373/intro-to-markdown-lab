@@ -27,3 +27,8 @@
  3. *Grill onion slices until golden, then flip, salt, and cook until caramelized; transfer to a plate.*
 
  4. *Toast buns cut-side down, then layer the bottom bun with burger, onion, lettuce, and tomato; spread condiments on the top bun, add pickles, and place on top of the burger, securing with a toothpick if desired.*
+
+ ![Directions](https://images.unsplash.com/photo-1659345737306-7022e0687e0d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+> For more information on burger recipes, check out the [burger recipes] 
+(https://www.foodnetwork.com/grilling/grilling-central-burgers-and-hot-dogs/best-burger-recipes)
